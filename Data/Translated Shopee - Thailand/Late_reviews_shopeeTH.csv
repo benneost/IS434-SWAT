@@ -1,432 +1,432 @@
-,rating,Reviews,Sentiment
-116,5.0,,
-535,5.0,,
-656,1.0,,
-690,5.0,,
-762,4.0,,
-896,5.0,,
-1095,5.0,,
-1948,4.0,,
-2057,5.0,,
-2775,5.0,,
-3262,3.0,,
-3431,5.0,,
-3950,4.0,,
-4757,5.0,,
-4797,4.0,,
-4863,4.0,,
-4957,5.0,,
-5863,4.0,,
-6016,5.0,,
-6219,5.0,,
-6703,5.0,,
-6880,5.0,,
-7428,5.0,,
-7682,4.0,,
-7857,5.0,,
-8127,5.0,,
-8196,5.0,,
-8198,5.0,,
-8210,1.0,,
-8368,5.0,,
-8396,5.0,,
-8401,5.0,,
-8512,5.0,,
-8615,1.0,,
-8641,5.0,,
-8757,5.0,,
-8759,1.0,,
-8867,5.0,,
-8931,5.0,,
-8982,5.0,,
-9044,4.0,,
-9045,1.0,,
-9071,2.0,,
-9114,3.0,,
-9238,1.0,,
-9388,3.0,,
-9494,5.0,,
-9545,4.0,,
-9555,5.0,,
-9620,5.0,,
-9696,5.0,,
-9786,5.0,,
-9861,5.0,,
-9921,4.0,,
-10170,4.0,,
-10847,4.0,,
-10890,5.0,,
-10922,4.0,,
-11111,2.0,,
-11313,5.0,,
-11624,5.0,,
-11701,4.0,,
-11751,5.0,,
-11869,5.0,,
-11967,5.0,,
-12209,5.0,,
-12605,5.0,,
-12650,5.0,,
-12652,3.0,,
-12937,5.0,,
-13189,4.0,,
-13314,4.0,,
-13320,3.0,,
-13375,5.0,,
-13581,4.0,,
-14588,5.0,,
-14602,3.0,,
-14866,3.0,,
-14921,5.0,,
-14961,5.0,,
-14990,3.0,,
-15215,4.0,,
-15230,2.0,,
-15356,4.0,,
-15397,5.0,,
-15540,5.0,,
-15707,5.0,,
-15746,2.0,,
-15907,4.0,,
-16037,5.0,,
-16233,4.0,,
-16382,4.0,,
-16605,5.0,,
-16781,3.0,,
-16915,5.0,,
-17032,4.0,,
-17053,2.0,,
-17162,3.0,,
-17245,5.0,,
-17287,5.0,,
-17576,5.0,,
-17582,3.0,,
-17585,3.0,,
-17589,5.0,,
-17596,5.0,,
-17634,5.0,,
-17710,5.0,,
-17730,5.0,,
-17739,5.0,,
-17759,5.0,,
-17891,5.0,,
-17949,5.0,,
-18018,5.0,,
-18047,5.0,,
-18075,5.0,,
-18086,4.0,,
-18294,5.0,,
-18389,5.0,,
-18400,5.0,,
-18426,4.0,,
-18471,5.0,,
-18630,4.0,,
-18706,4.0,,
-18761,5.0,,
-18853,5.0,,
-18901,5.0,,
-18926,5.0,,
-18955,5.0,,
-18980,5.0,,
-19126,5.0,,
-19201,5.0,,
-19267,5.0,,
-19274,5.0,,
-19309,5.0,,
-19370,5.0,,
-19492,5.0,,
-19569,3.0,,
-19601,5.0,,
-19733,5.0,,
-19841,5.0,,
-19897,5.0,,
-20120,5.0,,
-20200,5.0,,
-20275,5.0,,
-20317,5.0,,
-20331,3.0,,
-20389,5.0,,
-20413,5.0,,
-20431,4.0,,
-20432,5.0,,
-20471,5.0,,
-20482,5.0,,
-20512,4.0,,
-20514,5.0,,
-20557,4.0,,
-20601,5.0,,
-20607,5.0,,
-20614,4.0,,
-20618,4.0,,
-20741,4.0,,
-20776,5.0,,
-21097,5.0,,
-21106,5.0,,
-21115,4.0,,
-21151,5.0,,
-21305,5.0,,
-21512,5.0,,
-21566,5.0,,
-21597,4.0,,
-21629,5.0,,
-21698,5.0,,
-21706,4.0,,
-21766,4.0,,
-21773,5.0,,
-21848,5.0,,
-21933,5.0,,
-21998,4.0,,
-22349,4.0,,
-22428,4.0,,
-22488,5.0,,
-22666,3.0,,
-22687,5.0,,
-22713,5.0,,
-22718,5.0,,
-22816,5.0,,
-23627,5.0,,
-23733,5.0,,
-24247,5.0,,
-24437,4.0,,
-24515,4.0,,
-24527,4.0,,
-24564,4.0,,
-24729,5.0,,
-24791,5.0,,
-24839,5.0,,
-24842,4.0,,
-25273,2.0,,
-25286,5.0,,
-25303,4.0,,
-25378,5.0,,
-25398,5.0,,
-25409,5.0,,
-25650,5.0,,
-25655,4.0,,
-25773,3.0,,
-25869,2.0,,
-26361,5.0,,
-26768,5.0,,
-26846,2.0,,
-27022,4.0,,
-27693,5.0,,
-27769,5.0,,
-27820,3.0,,
-27909,2.0,,
-27920,4.0,,
-28005,4.0,,
-28077,5.0,,
-28111,5.0,,
-28116,4.0,,
-28187,4.0,,
-28198,1.0,,
-28292,4.0,,
-28431,5.0,,
-28449,1.0,,
-28785,5.0,,
-28793,1.0,,
-28809,5.0,,
-28817,5.0,,
-28824,5.0,,
-28826,5.0,,
-28844,5.0,,
-28860,4.0,,
-28880,5.0,,
-28889,5.0,,
-28921,5.0,,
-28924,5.0,,
-28951,4.0,,
-28998,4.0,,
-29044,5.0,,
-29128,2.0,,
-29129,5.0,,
-29143,3.0,,
-29232,5.0,,
-29331,5.0,,
-29349,1.0,,
-29432,5.0,,
-29508,5.0,,
-29704,1.0,,
-29759,1.0,,
-29765,4.0,,
-29801,4.0,,
-29980,4.0,,
-30116,4.0,,
-30193,1.0,,
-30196,1.0,,
-30267,1.0,,
-30274,1.0,,
-30278,2.0,,
-30422,5.0,,
-30614,1.0,,
-30616,3.0,,
-30618,3.0,,
-30627,3.0,,
-30632,1.0,,
-30637,1.0,,
-30653,1.0,,
-30659,2.0,,
-30662,1.0,,
-30664,1.0,,
-30672,2.0,,
-30686,2.0,,
-30710,3.0,,
-30712,1.0,,
-30738,4.0,,
-30748,1.0,,
-30769,3.0,,
-30829,3.0,,
-30852,1.0,,
-30858,2.0,,
-30862,4.0,,
-30902,4.0,,
-30932,2.0,,
-30949,4.0,,
-31115,4.0,,
-31487,4.0,,
-31541,1.0,,
-31646,2.0,,
-31759,4.0,,
-31761,1.0,,
-31787,4.0,,
-31816,3.0,,
-31828,3.0,,
-32130,4.0,,
-32407,5.0,,
-32408,4.0,,
-32414,5.0,,
-32421,5.0,,
-32514,5.0,,
-32550,5.0,,
-32634,4.0,,
-33165,1.0,,
-33328,4.0,,
-33459,5.0,,
-33702,4.0,,
-33848,5.0,,
-33858,5.0,,
-33958,5.0,,
-34145,5.0,,
-34395,5.0,,
-34608,4.0,,
-34923,5.0,,
-35424,5.0,,
-35610,5.0,,
-35647,3.0,,
-35793,4.0,,
-35836,5.0,,
-35934,5.0,,
-36140,4.0,,
-36694,4.0,,
-36710,1.0,,
-37365,4.0,,
-37441,3.0,,
-37483,4.0,,
-39514,4.0,,
-40499,4.0,,
-41955,5.0,,
-42179,5.0,,
-42295,5.0,,
-42319,5.0,,
-42320,4.0,,
-42400,5.0,,
-42544,5.0,,
-42551,5.0,,
-42669,5.0,,
-43045,3.0,,
-43188,5.0,,
-43355,5.0,,
-43392,3.0,,
-43543,5.0,,
-43654,1.0,,
-43729,5.0,,
-43856,5.0,,
-43944,1.0,,
-44032,2.0,,
-44064,4.0,,
-44076,2.0,,
-44147,3.0,,
-44241,3.0,,
-44313,4.0,,
-44437,5.0,,
-44497,4.0,,
-44606,4.0,,
-44624,5.0,,
-44631,4.0,,
-44682,5.0,,
-44867,5.0,,
-44904,4.0,,
-44949,5.0,,
-45222,1.0,,
-45507,5.0,,
-45667,5.0,,
-45768,1.0,,
-46019,1.0,,
-46028,4.0,,
-46056,1.0,,
-46262,5.0,,
-46320,4.0,,
-46382,4.0,,
-46532,5.0,,
-46696,5.0,,
-46837,1.0,,
-46867,4.0,,
-46881,5.0,,
-47179,5.0,,
-47221,4.0,,
-47249,4.0,,
-47296,5.0,,
-47369,5.0,,
-47542,5.0,,
-47570,5.0,,
-47622,5.0,,
-47808,5.0,,
-47886,1.0,,
-48116,5.0,,
-48184,5.0,,
-48488,5.0,,
-48520,1.0,,
-48601,3.0,,
-48609,3.0,,
-48742,4.0,,
-48857,5.0,,
-49134,5.0,,
-49143,5.0,,
-49194,5.0,,
-49248,3.0,,
-49284,5.0,,
-49816,1.0,,
-49976,4.0,,
-50070,5.0,,
-50230,5.0,,
-50530,4.0,,
-51070,5.0,,
-51285,1.0,,
-51330,3.0,,
-51523,4.0,,
-51581,2.0,,
-51766,4.0,,
-51916,2.0,,
-52299,5.0,,
-52430,5.0,,
-52472,4.0,,
-53046,4.0,,
-53311,5.0,,
-53337,4.0,,
-53579,5.0,,
-54008,5.0,,
-54196,4.0,,
-54287,5.0,,
-54479,5.0,,
-54620,3.0,,
-55482,5.0,,
-55577,5.0,,
-55618,5.0,,
-55787,3.0,,
-56077,3.0,,
-56104,5.0,,
-56586,5.0,,
-56659,2.0,,
-56798,5.0,,
-57326,2.0,,
-57506,4.0,,
+,rating,Late reviews,Sentiment score
+116,5.0,good shippingproducts accurate complete inexpensive variety items choose fromthe product actually used problem order repeated second timebut stick transportation problem kerryslowly slow causing wait many days,Negative
+535,5.0,sneak transport little slowmaybe shoppiece understand im okis loose falls often entered,Negative
+656,1.0,price quality relatedbecause used starting put wheel difficult waste time pim still cantif price strong strongbut assembly process difficult lot timeyounger wheels splashes every time,Negative
+690,5.0,fast delivery wait long time complete product damage bigger overall price okay,Negative
+762,4.0,round second round ordered everything cannot found first round round prepares little longerthe floor looks tilted first round distorted first round rubbing,Negative
+896,5.0,send quickly slowly transportcall postpone delivery dategood product,Negative
+1095,5.0,delivery ok slowreceived product completely damagedthe assembly easycan without toolsthe product strong put lot,Negative
+1948,4.0,products likematch desiredproducts put boxdid wrap bubble product damagedshow transport carefuldidnt take anything overotherwise would definitely broken delivery slow order received,Negative
+2057,5.0,received nothing damage ordering plastic shelf bubble wrap another layer insert box alone afraid damaged transportation box noticed first layer tilted picture okay bought cheap pricethe company slow,Negative
+2775,5.0,normal products damaged waiting long timegood quality products,Negative
+3262,3.0,get productthe shop slowfrom beginning saturday sent monday insteadbut staff answered question wellgood wrap broken,Negative
+3431,5.0,fast fast product gang price impressed ground floor wrong thing bit difficult normally problem product boxthere shockbut mind long product damagedfit temple,Negative
+3950,4.0,good product right pricethe service service broken star slow delivery order day delivery shopreceived day,Negative
+4757,5.0,transportation quite fast wait wait long time wrapped tightlythere cloth mask toookay productscan adjust low level,Negative
+4797,4.0,quality products available suitable prices request broken stars slow deliverythe shipping company also sent slowlyin system delivered,Negative
+4863,4.0,received product without problemsthe shop pack goodand important price cheapbut disadvantage transportation delivered relatively slow,Negative
+4957,5.0,sorry press slow,Negative
+5863,4.0,star broken product broken edge leaves sure production production thintransportation long,Negative
+6016,5.0,product price baht per piece pack damaged delivery products slow product okay damaged,Negative
+6219,5.0,wrapped diver product damaged wait long wrapped diver product damaged wait long wrapped diver product damaged wait long wrapped diver product damaged wait long wrapped diver product damaged wait long wrapped diver product damaged wait long,Negative
+6703,5.0,received product completely orderedthe shipping longthe shop goodthere problem inquiry chat wait long timereply quickly,Negative
+6880,5.0,cheap pricebut transport slowdid hurry use seriousness wait overallthere another order,Negative
+7428,5.0,quality dense pack complete complete sizesthe transport bit slow serious doesnt hurry,Negative
+7682,4.0,price price chance subsidize regret long time,Negative
+7857,5.0,ok qualityspecified size orderedcovering wellvery slowbut reason comes transportation companyno problems,Negative
+8127,5.0,shop goodthe product damaged damagedquality productssuitable pricereceived product exactly orderedfast delivery wait longer,Negative
+8196,5.0,received productbut lacking air pipecoordinate line difficult answer slow overthe shop proposed full refund lose air conditionerbut waiting dayswhich okaygood stores staff followersthank shop got cheap air add btu,Negative
+8198,5.0,order product one day received air conditioner installation time still cant find problemwait see long run encounter problems,Negative
+8210,1.0,copper pipe cs respond pay money buy pipe aircraft anotheryou wait delivery firstand install service slow explained sign complete,Negative
+8368,5.0,product suitable priceorder another model side sent say better ordered versionturn machine delay seconds temperature display brightthe shop delivery delayed slowly,Negative
+8396,5.0,received product probleminstalled compressor cut faster notified problem company know summarize wasted board must wait spare parts change long time wait wait wait technician finish replaced new air conditioner without chargeadded,Negative
+8401,5.0,received product long timebut installedgood product damaged complete equipmentthe stick another version shop informed item outthe sound cool cold inexpensive,Negative
+8512,5.0,installed air conditioner price air expensive compared btu saidmechanic fee plus air conditionerstill tens thousands cold juicy allergic brands wait see long time,Negative
+8615,1.0,box dancing products damaged slowly,Negative
+8641,5.0,shop soonbut transport knowncall ask many times preliminary stick yet found cold open problems took order btu btu pay technician worth long quality,Negative
+8757,5.0,wait product little longerthe shop told us enough send week solve problem upgrading model without chargeconsidered good responsibility cold air wooki must wait see long,Negative
+8759,1.0,air solution waste time waste feeling bad slownormally buy electrical appliances come today end recommended anymore,Negative
+8867,5.0,send slowly wait order shop changed much money doesnt pay like trust band,Negative
+8931,5.0,received item got queue todayoverall satisfied thinking choice wrong shop transportation goodgood products durability maintenance must see long time never use brand,Negative
+8982,5.0,ordered shop informed quiet problem look long,Negative
+9044,4.0,send slowly plain plus air pipes waste purchases,Negative
+9045,1.0,purchase device completelack air sauce krem must waste time waiting mechanichave pay yourselfdelivery slower several days label attachment communication shop quite slow,Negative
+9071,2.0,product little slow big point plus copper pipemust pay conclusion didnt get much,Negative
+9114,3.0,cheap broken two stars complete copper pipebut shop sent latersent later usedbecause already install air buy pipe itselfbecause beenif stuck technician lose trip booking mechanicaftersales service,Negative
+9238,1.0,terrible delivered slowly completed,Negative
+9388,3.0,good product deducts little slow delivery ordered date received dhl shipping star broken broken zip swipe check zip broken,Negative
+9494,5.0,products correct exactly selecteddelivery takes long timeoverall satisfied productnot disappointed product received,Negative
+9545,4.0,give broken one starthere deformation inch long stitching must sewn repair soft tight overall enough,Negative
+9555,5.0,oh soft sitting sucked dont know long usedbut item straight coverit covers chair took soft blanket insteadhealed back plastic tattooed,Negative
+9620,5.0,soft sitting long time knowing collapse soft sit long time,Negative
+9696,5.0,product advertised cutethe delivery quite sensitive sitting comfortably used according ride styledo expect disappear back pain cushionthe long came backrest,Negative
+9786,5.0,get product fast delivery good problem productthe seat soft sitting long time hurts butt wave smooththe product affordable baht,Negative
+9861,5.0,product ok cover soft damage send slow product ok straight cover soft damage damaged delivered slow,Negative
+9921,4.0,quality price accepted transportation uses dhl thinks changed long bangkok chonburi takes week full long confused go buy elsewhere first,Negative
+10170,4.0,passing dhl quite slow understand situation nowgood softnessthe waves help massage back pain sitting front computer long timerubber band rare chairso use rope againthere slippery flow chairs,Negative
+10847,4.0,star broken slow good product,Negative
+10890,5.0,get fasttry sit soft hurt butt used long time,Negative
+10922,4.0,received product cover onesided binding line make longerlonger shortlet customers cut chair overall except line,Negative
+11111,2.0,deliveryknowing cutting heartthat sitting flat halffolded still use long flat soft,Negative
+11313,5.0,transport sorting wrong parcel making slow,Negative
+11624,5.0,press order pay day mina received day afternoonhow long waithavent tried,Negative
+11701,4.0,shop wrapped shocking star broken whole product damaged may delayed slowlybut transportation sensitive,Negative
+11751,5.0,received alcohol spray brandname smellthe shop fast customer shockedthe product received box put box shockproofwell product leaked fragrant inexpensive resistant smellcan collected long time impressive customer shop real disappointment,Negative
+11869,5.0,fragrance goodbut time accidentally inside alcohol insolation feeling bitter maybe alcohol quite high shipped small bottles long time,Negative
+11967,5.0,receivedcomplete orderwait long time get okay dont know reviewthe long pomp little difficult,Negative
+12209,5.0,received product already complete correct exactly orderedthere problem wait long time delivery fast,Negative
+12605,5.0,try good fragrance derived package see product damage damage fast overall like available long time,Negative
+12650,5.0,delivery longthe product fully damaged done correctly ordered smell onion perfume style far thinking fragrant much ok,Negative
+12652,3.0,received productrequest deduct deliverya little slow doesnt hurry okay product strange,Negative
+12937,5.0,box drilled shop slownot wrapped bubble shockproofunderstand product price iswould like consider damage product customer pays buy,Negative
+13189,4.0,good product send slowly broken slowly overall okra right price ordered many timesbefore purple smell fragrantthis round hasnt tried smellbut good,Negative
+13314,4.0,would like deduct stars wrapped shocking sealing bottle mouth outsideprobably used longall,Negative
+13320,3.0,wish stars order shop pressed receive orders delivery shockedlike hurry put boxif product damaged story long waste time everything disturbingpolite delivery,Negative
+13375,5.0,fragrant transport delivered bit slowalmost pressed cancel,Negative
+13581,4.0,product leaked order dec date december smell sweetbut still try spray receipt faded long,Negative
+14588,5.0,preparation fast delivery wait longertransit long receivethe product torn damaged soft crab bed,Negative
+14602,3.0,service shop ok product many bad stitchesbut rashes may goodquality available delivery slow good transportation including enough,Negative
+14866,3.0,blame productsthe sewn line many frayed bad stitching points lot thread lot artificial goose filling tight loose delivered slowly sender usual product normalthe package according picture taken price includes pieces including delivery fee discount baht,Negative
+14921,5.0,nong somboonsleeping bed tower back pain long timevery good morevery fast ordered yesterday afternoonsend evening yesterday today u,Negative
+14961,5.0,fast transportation good packthe product waiting long time reducing purchase price shop disappointedprovide fast transportationgood packthe product waiting long time reducing purchase price shop disappointed,Negative
+14990,3.0,received product alreadycheck product damage anythingproduct packmay bit damaged due transportationdelivery products slower specified timethe top thick reasonable,Negative
+15215,4.0,delivery fastbut people order lot leave days thickness say less inches dont templesee picturelazy send claim long used buy flash sale maybe thick,Negative
+15230,2.0,slowly waiting long time important expensive storesthe size expensiveoh miss lot press order regret quality quality soft soft sleep collapse must take layers,Negative
+15356,4.0,must broken one stardelivery delayed rather leaving storedo understand many days topper looks goodtook bag inflated thick enough fabric slipperysuitable price,Negative
+15397,5.0,rate store fullgood product according basebut want complain transport dhl sending quite slower transportif ordered choose dhl,Negative
+15540,5.0,none like lotthe best bouncingthe shop delivered fastordered yesterday noon later noon pig,Negative
+15707,5.0,gray beautifulthe fabric softbut better hurt later normalconsolidation people without soft bed sleepthis answer,Negative
+15746,2.0,floorone colored fabric another color sewn skeptical expensive shipping slow delivery call according transport follow againfaifered slowlysimple sent province provincehow many days days,Negative
+15907,4.0,come take sun footake mattressbut dont know long used collapse transport okay,Negative
+16037,5.0,good product thick thick thick sleep longer back pain deliver quickly bag pack little,Negative
+16233,4.0,product takes long delivery timeproduct quality suitable pricethe transportation package damaged affect product,Negative
+16382,4.0,tight including ok feel delivery slow broken slowly,Negative
+16605,5.0,top factory direct sales light brown twoinch thick soft light fast fiber packing long long collapse worth,Negative
+16781,3.0,thick lie disappointed slow chance subsidizebut sleep disappointed slow chance subsidizebut sleep disappointed slow chance subsidizebut sleep disappointed slow chance subsidize,Negative
+16915,5.0,ordered waking pain every morningnow back pain disappearscan sleep longer wake feel good must try,Negative
+17032,4.0,sensitive delivery wait long time parcel bag broken form inside damaged products thoughtbut badsoft enoughput mattresssleep comfortablecompared price considered worthwhile,Negative
+17053,2.0,shop little slow always aware chat kerry postponed times enough bag broken bag good scream penetrate mattress,Negative
+17162,3.0,lets broken stars slowlyand thickness thought would inches price fast sales quite cheap serious thickness pricewhy use sewing white threadmakes clear stitching done,Negative
+17245,5.0,trade complete according color orderedbeautiful fresh fool eyes according ad thick thin thicker thisthe price expensive transportation slow fast days get,Negative
+17287,5.0,received fast ordered received dhl thought would slow received fastproduct quality partloftynot thick thinkbut get bad quality according price,Negative
+17576,5.0,floating neck waiting order low price product quality changesent beforegive stars longreally love shopi dont know long eat think taste fragrance distorted since around glands taste distorted,Negative
+17582,3.0,order green teasend time protein content quite roughshaking lot bubblesnot intense clear water smell matcha fragrantbittereat morning muchpaulong came eat episode going bed dizzy againbut cheaper brands normally soy isolate never kind symptom,Negative
+17585,3.0,ordered many timesthe locked zipper bag chocolate flavor often problem closed zipper two sides sameordered twice samemust find zip bag put another layerafter avoided order shock,Negative
+17589,5.0,received soy protein isolate bags flavors according accurate complete wrapped bubble put delivery box successfullyisans deliveryorder friday day okaythe taste tasting,Negative
+17596,5.0,ever eating first maker protein difficult personally eating milk alreadywith thin bean smellmaker recommendedwill long delivering packboard box well,Negative
+17634,5.0,received productbut box like footprint product fully orderedopen first shocking protein bag bigger thinkbut send bit slow expensive deliverybut havent tried yetdont know eatbut try first,Negative
+17710,5.0,protein isolate lb soi protein isolate non whey whey lose fat add muscletry buy fatherhavent tried good bag,Negative
+17730,5.0,receiving product soy protein isolate found product taste stiff mixed waterbut mixed milk makes drinking convenient,Negative
+17739,5.0,finally vanilla flavorthis waiting long time doesnt like chocolateeat natural flavorwhen taste hurriedopen sachetsweet easy eatmaker melt quite wellthe next round must buy stock fear,Negative
+17759,5.0,soy protein isolate grams lot big bags flash loans reduced delivery fee baht return coins shipping company call deliveryreceived product days,Negative
+17891,5.0,soy protein isolate soy soi protein isolate non whey size tasteless plus powder spoon every bag envelope detailed instructions,Negative
+17949,5.0,received sensitive itemsuitable peoplereally slowthe pack okthe taste correcteat hard,Negative
+18018,5.0,repeated smell fragrantoverwhelminglydelicious chocolate flavor sweet price cruel,Negative
+18047,5.0,eat easy lean sensitivitylost lost fatigue fasterdont worry protein lacking people dayfitness chilledlike order continuously long time,Negative
+18075,5.0,prepare product slower every product allergic shipping case fast delivery product damagedcall deliverygood speakprovide stars transported employees send,Negative
+18086,4.0,ordered day shop sent day received day spent almost days deliveryconsidered quite slowlybut shop sent product completely pack damaged,Negative
+18294,5.0,soy protein isolate soi protein isolate non whey maker drink morning evening exercise immediately added sugar,Negative
+18389,5.0,soy protein isolate lb,Negative
+18400,5.0,fast deliverypack wellnot expensiveusually eat tastenot difficult eatbut around front try eat chocolate,Negative
+18426,4.0,soy protein isolate lb soi protein isolate non whey whey reduce fat increase muscle price goodbig bag,Negative
+18471,5.0,received productused eat chocolate protein taste goodbut round try turn green tea bored,Negative
+18630,4.0,products shipped good condition quantity eat read back packingbut broken one stardue slow delivery,Negative
+18706,4.0,star broken zip bag problem shut long ordered many bag closed beforefast deliveryworth price,Negative
+18761,5.0,delivery shopthe product pack quite oka little collapse box inside nothingcheck dont leaktry eat work ordered ps experience considered long enough,Negative
+18853,5.0,get fastgood product packthe taste considered okay mixed milk chocolate milk deliciousnot stinking rancid easy eatvery cheap buy pro,Negative
+18901,5.0,soy protein isolate lb soi protein isolate grams non whey way reduce fat increase muscle cheapest proteinmust thisget protein equivalent brands,Negative
+18926,5.0,bag large chocolate flavor cool soft secretly meltedmust try regular water makertaste freshness eating difficult smell little,Negative
+18955,5.0,soy protein isolate big baggood quality productsgood valuefast deliveryrecommend shop,Negative
+18980,5.0,bag big eaten long time still never eaten dont know eat good package fast delivery,Negative
+19126,5.0,even though left wang noidue transportation problem within shopfor long time doesnt break good shockhow drink brands come buy original,Negative
+19201,5.0,fast deliverygood product packtake period time pay delivery date longvery cheaphundreds big bag,Negative
+19267,5.0,used order bagdrinking mixing coffee pea isolate protein twice day quit using artificial cream health ordered bagdrinking mixing coffee pea isolate protein twice day quit using artificial creams health,Negative
+19274,5.0,received product shop shipped since problem caused residue service company received slowly week fortunately product damage service goodthrough customers affordable quality good quality different brands taste yet tried ok finished another order,Negative
+19309,5.0,received product sending fast waiting long time inexpensive bought sent sisterhave never tried thiscome support new,Negative
+19370,5.0,matell soy protein isolate lb soi protein isolate pounds grams whey non whey reduce fat increase muscles matell soy protein isolate lb soi protein isolate pounds grams whey non whey reduce fat increase muscles matell soy protein isolate lb soi protein isolate size,Negative
+19492,5.0,big bag fast delivery damageokay pricetry eat look taste freshness little bitter tastethe powder quite intensemust long water solvent,Negative
+19569,3.0,send slowly pack good put product box send itno bubble wraprisk product broken damaged,Negative
+19601,5.0,received product well box shocked littlewrapped bigger think overall product goodthe date expiration long time,Negative
+19733,5.0,big bag lot bags plus inexpensive buy broke reduce price little morenot slow,Negative
+19841,5.0,received item try eatthe big envelope size worth transportation distance little longer understand kowit situationthe soybean garden sweetis bitter,Negative
+19897,5.0,send well order second round soy protein isolated comes eat look like streamlined style taste bad think eaten flavor,Negative
+20120,5.0,soy protein powder isolate grams protein concentrated sugar delivery sensitive price expensive gramsprice less baht,Negative
+20200,5.0,solve score first bag broken leak officerstill sending backsend new bag cute long customer,Negative
+20275,5.0,soy protein isolate lb soi protein isolate grams non whey way reduce fat increase muscle soy protein isolate lb soi protein isolate grams non whey way reduce fat increase muscle soy protein isolate lb soi protein isolate grams non whey way reduce fat increase muscle,Negative
+20317,5.0,box bitch comes inside shockproof bag new products order production products fast delivery eat difficult dissolve slowly whey brandbut dissolved,Negative
+20331,3.0,give three stars shop delayed little slow product get many daysas product quality cannot explained good body effective,Negative
+20389,5.0,order send one long time prepare deliver littletry product use wellnormally item stuck house even though already filled,Negative
+20413,5.0,advantages suck everything strong carpet catch sucked cheap price disadvantages us considered loud us little heavywe stayed sucked really sensitive machinebut stayed sucked overall ussatisfied productmust wait see long,Negative
+20431,4.0,machine small lazy assembling time use remove time collect suction power severe use long time tinnituswait room knock order date received products sensitive,Negative
+20432,5.0,shop pack package boxbut delivery single layer package slowas far looks eyes broken sheep likely know try use,Negative
+20471,5.0,weakness opening button little bit gesting afraid using long time broken cannot turned sound machine sucked loudlyin apartment room rarely kept sound fear disturbing peoplewhen sucking hurry suck hurry see grandchildren commentsbut sense loud,Negative
+20482,5.0,product good sucker available device used suck ground relatively difficult frustrated vacuuming slightly left okay slowthis brand dust many machines house housewife home self worth price,Negative
+20512,4.0,sales person slowwaiting product long time impatient person wait days overall,Negative
+20514,5.0,administrator answered fastthe tax invoice delivered suspension friday received sundaythe test goodsucking along corner cleanthe weight muchcan used suck ceilingthe sound normal level vacuum cleanerif held long time hotto change plug corner,Negative
+20557,4.0,little trialfound longstyle suction head goodloud much another brandbut connected short style found wind machine making dust pressure sucklong power cord availablethe price expensivethe problems found,Negative
+20601,5.0,delivery widei product first used impressedis dust sucked outlongterm must try againwhoever looks vacuum introduce storevery much,Negative
+20607,5.0,headsif per long leg head quite loosenot fastbut sucked wellin picture vacuuming mattresssent soon soon admin answer goodoverall good,Negative
+20614,4.0,slow delivered slowly delivered slowly delivered slowly delivered slowly delay slow delay slow delay slow delay slow delay slow delivered slowly delay slow delay slow delay slow slow deliveryvery slowly delivered slow delivered slowly delayed slowly delivered slowly delay slow delivered slowly delay slow delay slow delay slow delayed slowly delivered slowly delivered,Negative
+20618,4.0,prepare deliver product quite long time test usagequality according product pricewell sucked fast fast must cleaned,Negative
+20741,4.0,please deduct stardelivery slow admins telling system error administrator answered wellthe product damaged heads change,Negative
+20776,5.0,beautifuldelivery sensitive wellaimed long time buy hesitant would white blackbut blackbought disappointed sucked,Negative
+21097,5.0,try use wellvery dustling guide english language brandgood long cable storagebought sale worthwhileproduct suitable pricewhat damaged,Negative
+21106,5.0,hesitate long time price strong afraid crumbling fast decided buy tell goodhot problem,Negative
+21115,4.0,requesting star deduction due black orders plus filters white person orderthe shop report product whatbut want useso returntake slow delivery week sound first opening secretly shocked,Negative
+21151,5.0,first fast ordered icons three oclock received product late afternoon outside product bubble wrapbecause rainy seasonthe inside plastic covering productin envelope wrapped suction headthere penny product completetry suck itnormal sounds seen general vacuum cleaners,Negative
+21305,5.0,try suck dust okaybut machine sensitivelong term isnt strong,Negative
+21512,5.0,think good suck try little hair fullbut secretly hard held long time maybe pain arms good,Negative
+21566,5.0,products look good look effectivebut must try firstdelivery slowbut probably pro shipping damage,Negative
+21597,4.0,shop packed well damage personally teaching trade bad heavy head handlewhen floor sucks long timeor according envelope angle ache arm parts device lighteasy removable filter boxdifficult,Negative
+21629,5.0,aiming long time deerma waiting good pricethe first time long timethe item lazy person islove head young sucking cornerbut holding formim tiredbut overall like ps horror dust,Negative
+21698,5.0,fast waiting daysucking enough hair sucks comfortablythe material solid pastelooks strong enoughthe disadvantage machine hot suitable wide areasthat takes long time suckwith design motor near handle must used suck enough cleanoverall recommendedwell price used,Negative
+21706,4.0,pack goodbut rarely shockproofat beginning first puzzledbecause didnt study trying plugged plug use long linesecretly scared besideoverall worth,Negative
+21766,4.0,star broken color wrong send slowly black color wait enough back black waitingbut doesnt stick anything used well feel fleet color wrong must wait black color item black wronghave opportunity come back buy,Negative
+21773,5.0,product covereddelivery takes long time inexpensive quality packed well dense damaged,Negative
+21848,5.0,try well suck enough recommended suck long time machine hot drum used well suck enough recommended suck continuously long time machine hotcan strong recommended suck continuously long time machine hot drum well used,Negative
+21933,5.0,good suction keep price use long timedont know much price isit considered worth delivery raped product damaged sucking strongdont know much price isit considered worth delivery raped product damaged,Negative
+21998,4.0,ocnun usedokaythe water heavy light loud accept star broken slow delivery,Negative
+22349,4.0,wrap package shop delayed deliveryheavy machine high pitching sleeves suction long line fast hot machinesound wrapped parcelthe shop delayedheavy machine high pitching sleeves suction long line fast hot machinesound wrapped parcelthe shop delayedheavy machine high pitching sleeves suction long line fast fast,Negative
+22428,4.0,personally looking long time buy brand decide buy according reviewwith right pricetry suck suck debris machine little warmthe sound normal vacuum cleaner loud,Negative
+22488,5.0,send quickly buy episodes flash sale cheaper episode flash much worthwhile sufficiently sucks long time,Negative
+22666,3.0,shop slow transport slowto destination must wait days get confused,Negative
+22687,5.0,product goodbut shop put address wrongcan cause slowbecause item sent wrong payment unit,Negative
+22713,5.0,transport slow know wrong sent wrong way,Negative
+22718,5.0,wrapped well delivery quite slow maybe machine quite heavy forsucking get tired,Negative
+22816,5.0,prepared quite long timebut delivery sensitivegood quality reviewhot problem,Negative
+23627,5.0,terms product packs bubble wrap product boxthere package boxbut fortunately product damaged broken stars matter product scales charcoaleasy use bluetooth connect appminimal design according overall brand ok slowly transported,Negative
+23733,5.0,product sooner fast flash sale still delivered slow wait long time get bubble wrapped single layer gradually thin transport quite goodso damage damaged used normally,Negative
+24247,5.0,received product successfullythe product fast dont wait long good product weigh lets weighhave told bone fat mass assess initial health,Negative
+24437,4.0,used well calculate body scalebut try compare machines seems enough brokenif find bad transport box broken,Negative
+24515,4.0,pack good shock together cut star slow transportall,Negative
+24527,4.0,wait product delivery long product damage coverthe color spotless,Negative
+24564,4.0,order time product sent get item behind order day connect app android quite slowsometimes star broken,Negative
+24729,5.0,delivery stores shipping kerry transport shops product pack product honorizing long time take goodafter hesitating several months decided along bought,Negative
+24791,5.0,shop sensitivepack product day latewe things confused,Negative
+24839,5.0,see review yei imagine delivered slowlybut expected order noon yesterday afternoon todayvery impressedgood productto fill charcoalwho hesitant buy cheapest price,Negative
+24842,4.0,product completely accurate takes long deliverybut delivery stacked againthere thin bubblewhat product damaged,Negative
+25273,2.0,send widei point wrap bad thin bubble risk product damageif passedand internal systemcan used long term even losing moneysaying shop buying shop firmly improvedis promisebecause sentlose,Negative
+25286,5.0,send little slowdo put box bubble covered according picture qr code register bubble sticker transporting overlayadmin told labelcan kept thisthe rest would leave fear kovad,Negative
+25303,4.0,waiting long timetry use quite satisfiedcan connect mobilethe device done advertisedthere characters damaged,Negative
+25378,5.0,seeing others told slowly days consideredordered day day day kerry calledbut lets blame packagebecause wrapped bubblesome boxes slantingbut damaged product box xiaomi well cut anything,Negative
+25398,5.0,received productsent quite slowlybecause press order informed delivered slowlyand chat ask product preorder ready sendadmins answered us thatready send within days enough orderi wait days secretlysend items wrap shockproofa little bit boxbut product damaged,Negative
+25409,5.0,use well enough get heavy machine send mobile app calculate everything time calculate weight loss programplus remember personcan use many people,Negative
+25650,5.0,send little slow guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisology guisusology guisusology guisology guisology guisusology guisusology guisology guisusology guisology guisology guisusology guisusology guisus guidus guidus guidus guidus guidus guidus guidus guidus guidus guidus guidus guidus enems enems enems enems enems enems enems entormusives enfulus enfulus enfulus enemses enemicus enemses enemy enemy enemy enemy enemy enemy enemy enemy enemy enemy enemy enemy enemy,Negative
+25655,4.0,used normallybut slowly deliveredenough request cancel storesthe restaurant refused immediately informed sent,Negative
+25773,3.0,kerry defective box delivered slower usual day product works well,Negative
+25869,2.0,waiting long timelong forgot buying pack fear crumblingdont put anything boxbubble wrap comes somewell thats broken sentnot impressed,Negative
+26361,5.0,received product completely correctlygood packwith bubble shockproofbut transportation problem due covoid lawthen stopped receiving parcel legality reject transport cycle call customer directlyuntil time called inform deposit forensicsso pick item quite long time,Negative
+26768,5.0,wrap product tightlywaiting long timethe condition product normal condition broken,Negative
+26846,2.0,understand right amount used twice broken good quality close image completely delivery slow province,Negative
+27022,4.0,nonstick glass frame woodit loud foreverbut shop answered wellbut transport comes slowly use day waste time,Negative
+27693,5.0,used goes belongs others talk night sky day met everything dont fall everything heart,Negative
+27769,5.0,received product alreadydelivery slowlya little disappointed think smart tvbut actually notblame looks wrong dont look good,Negative
+27820,3.0,well everything broken stars delivered slowly order lot entrancethe incoming thing able get lock new order terminated price better boughtfully paid stuff guard lack customers pulling customers lot days,Negative
+27909,2.0,preparing product long timeorder pay product shifting preorders,Negative
+27920,4.0,star broken transport relatively slow,Negative
+28005,4.0,broken star transported slowly,Negative
+28077,5.0,ultimate ability told permanent size also said collateral permanent permanent resignation also said collateral permanent permanent resignation also said ultimate pellules told permanent say thatlatest latest permanent permanent resignation also said collateral permanent permanent resignation also said collateral told permanent size,Negative
+28111,5.0,dodo dumbbell dumbbell kg dumbbell black bellbell black bellbell weight lifting weight weight build muscleadjustable fitness dumbbells send little slow understand preorder,Negative
+28116,4.0,thank muchthe product arrivedcome slowlybut understand stuff boxnot damaged,Negative
+28187,4.0,latest shop answer chat deliver newly defective products renan long get complete weight weight damaged workevery piece sloppy stainssend products old fertilizer sacksthe condition like warehouse long time shop respond chat responsible suggest order store,Negative
+28198,1.0,sent slowly almost sundayunderstand may delivery agency wellunderstand story picture picture want use word deliciousbut carelessknowing heavywill still pack like megood broken lost beyond shop,Negative
+28292,4.0,broken slowly star addition product considered good,Negative
+28431,5.0,transportation little slow quality products okdo damage cover,Negative
+28449,1.0,waiting product monthvery bad wait long timethe shop know aboutnot according product,Negative
+28785,5.0,short stalking first thinking long stembecause used use brand box buy lazda long stemdo know one real fake bought per personmaintain,Negative
+28793,1.0,product problemsthe droplet time tube examination sucked slowly go find product change product shop read answer,Negative
+28809,5.0,product complete damaged ordered sunday night wednesday afternoonconsidered time soonbut slow order times,Negative
+28817,5.0,received itemslower shoppy set day product fully receivedthe product good small hurt,Negative
+28824,5.0,received product ordered wait long time boson find omorons guarantee waste pass thai standard precision know effect drops drops,Negative
+28826,5.0,good products fully delivered according number takes little longer five days round shockproof bad transport box product damaged call delivery,Negative
+28844,5.0,send item slowly cancel finally came already able get,Negative
+28860,4.0,status fast slowly delivered slowly ordered daydont know errors,Negative
+28880,5.0,kovillo check set nose slow delivery bad transport box wreck product damagedbut seriousbecause person sent yet young agethere may need sensitivityso threw box car soon race time,Negative
+28889,5.0,box mother okay offense transport storewell side inside damaged wrapped okay delivery long considered normal,Negative
+28921,5.0,ordered boxes buy price baht per box kept housefor emergency usethe shop shipped product quite sloworder day export shop date,Negative
+28924,5.0,cheaper storesit takes quite longer shipthe pack comes normally damage pieces orderedin transportation section fast delivery normally,Negative
+28951,4.0,send slowly please deduct star bought check beforeill probably use people infected aroundorder,Negative
+28998,4.0,ok product fully orderedthe pack finebut problem answering admins question delivery slow ordered days prepare deliverasked read read slowly answered match askeduntil cancel didnt send send,Negative
+29044,5.0,received productproducts meet image advertisedthe delivery correct wait longer delivery used testbut think problem,Negative
+29128,2.0,shop slowly sent date order almost daysboth daysif notification notchat automatic answer messageone side box sealing stickerwant return pay ownwhen shop responsewho order store consider,Negative
+29129,5.0,received product quickly delivered immediatelyordered secondgood hurt short rod long,Negative
+29143,3.0,delivery slow waiting long time sendmany discouraged many roundsbut reaching transportthe transportation fastthe packing criticism done well,Negative
+29232,5.0,receivedthe box blessbut sent slowlyif hurry use dont recommend itbut get complete order,Negative
+29331,5.0,deliveryhow long waitgood quality products flaws damage little daily box inexpensive,Negative
+29349,1.0,wholesale person slow followingwhen pressed cancel delivery refused sendasked askedi dont care people buy bad,Negative
+29432,5.0,send product long time hurries order advancegood quality productsis short wooden rod model easy use hurt nose,Negative
+29508,5.0,using dupla quite bit longer send order saturday wednesday brand large rod somewhat hurt small rod,Negative
+29704,1.0,slow cursed send cancel still send still good fullestordered many days refused send scold,Negative
+29759,1.0,sent slowly sun ordered day say hello askonly automatic message tells order today truecan say timesbecause saw didnt answer still good sendnot afraid cheatingbut need claritywhat itnot waiting wait,Negative
+29765,4.0,prepare days considered little longer green spring long rod choose check mouth nosein examination mouth mouth refrain eating water checking minutes find omords guarantee waste thai medical standards precision know effect drops drops,Negative
+29801,4.0,star broken slow really normally never long anything,Negative
+29980,4.0,used know price direct product cover hipbio yang long rod nose guarantee waste find omords high precision pass thai standard know effect drops drops,Negative
+30116,4.0,good product quality shockproofing star broken delivered quite slowly,Negative
+30193,1.0,seller slow contact answer questions order product refuse deliver product cancel product refusing cancel deliver product consider service,Negative
+30196,1.0,send item slowly wait staff didnt answer chat oncehow many times askwait many days send answer chat press cancel send immediately service seller terribleshould respond customers problemswhy passed days yet sent,Negative
+30267,1.0,seller badno answer questiontell order slowly cancel orderrefused cancelsaying regret dont want waste time dont order pack gotthe service worst sales person dont order itsince ordering app worst shopfirst last,Negative
+30274,1.0,response seller slow habe along readingonce enough didnt recommend atk like imitation,Negative
+30278,2.0,slowly prepare send parcel daysif dont say chat please send goodspoor storage services providing services poor shop serving services poor shop services poor shop serving services poor shop providing services poor shop serving services poor shop poor shop providing servicespoor shop services providing services shop,Negative
+30422,5.0,waiting long time ordered time quarantine detained still coming stray kids maniac mv youtube,Negative
+30614,1.0,worse sending product take long timewhen said ask didnt answer product without moneysince using shopeenever rate product starbut shop reallybad responsible,Negative
+30616,3.0,showing long stembut sent short stemsuggestions pressed separate whether customer wants long short stalkbut necessary get lazy problemtransport shortly prepare long timepress cancel preparation long timebut refused cancelwho order please ask good,Negative
+30618,3.0,slow delivery suitable people hurry message answerenough quit ordersbecause defined item arrive shop denies request todays,Negative
+30627,3.0,saying find shop answer longerbut enough cancel refusalbut message reply anythingthen hurry use item order send,Negative
+30632,1.0,delivery slowordered day delivery actual delivery day response customer impressedsay many timesbut cancel productif anyone hurry recommendbut anyone wait,Negative
+30637,1.0,bad shopthan expire slowlyso scheduled many dayswhen pressed cancel,Negative
+30653,1.0,send slow items completesay message response talk terrible,Negative
+30659,2.0,delivered slowly order day day sentwhen click cancel,Negative
+30662,1.0,sent slowly cancel shop cancelif correction delayed slowly,Negative
+30664,1.0,everything good bad thing service shop answer delayed messageno response must stimulate yourselfno contact information shop sent product wrong order received product talk reply refund waste time,Negative
+30672,2.0,shop slowis sun sendboth order campaign perioduntil press product send productbut product complete problem,Negative
+30686,2.0,send item slowly pressed cancel probably possiblehabe days store respondedcome answer againunderstand people order lot administrator answer customer,Negative
+30710,3.0,cheap little longeruntil cancelbut pressing canceling pressure,Negative
+30712,1.0,shop terrible worst best prepared long time days orderrequesting cancel product refused cancel really bad,Negative
+30738,4.0,wait product long timein system delivery powerbut refused sendmust say many rounds sendand fast,Negative
+30748,1.0,wholesale person slowi set delivery date answer chatwe see shop deliver goods transportso cancel orderbut shop refused cancelis frustrated cancel orderboth store still sending goods transport refusedsome people soonwe probably bad,Negative
+30769,3.0,delivered distracted later examination swollen,Negative
+30829,3.0,cheap products broken slow,Negative
+30852,1.0,slow delivery box without solution,Negative
+30858,2.0,send slowly dont want answer customers,Negative
+30862,4.0,delivery quite slowbut understand may stuck,Negative
+30902,4.0,star broken answer slow question good products,Negative
+30932,2.0,slowly delivered enough cancel,Negative
+30949,4.0,star broken preparation product slow,Negative
+31115,4.0,star broken delayed later stores,Negative
+31487,4.0,yesis preorder understand slowlybut admin answered little confused talk thisboth yoke women men one person told meanother person told come leave toonow issue admin response important,Negative
+31541,1.0,give image tell story rotate slowly fall soonsummary release hotspot phone speed still six lose emotions much machine,Negative
+31646,2.0,items review problem problem must answered another dayswaiting long time wait solve problem,Negative
+31759,4.0,send product fasteasy use sometimes lost signals including goodwait see longterm use,Negative
+31761,1.0,many internet signals use use highest internet packsunstable internetthe seller didnt know answerunfortunately life lateand sim connector plugged embedded allvery bad,Negative
+31787,4.0,used ok updating quite difficult puzzled take time quite long time,Negative
+31816,3.0,ok product stores slow transportationcome provinces wait get angry introduce transportation company,Negative
+31828,3.0,felt router used whilecan connectsometimes sureis signal device must come sit press routine standard quality machinethis surethe transport considered slowbut problem machine,Negative
+32130,4.0,good slip sound clickcan connect usb bluetooth star broken bit slow good slip sound clickcan connect usb bluetooth star broken bit slow,Negative
+32407,5.0,received productvery fast delivery wait long time disappointed good shop quick,Negative
+32408,4.0,received product sensitive transmission condition try use normally used week slowly yet slowbut think battery weak response quite slow,Negative
+32414,5.0,good quality products fast delivery inexpensive try use longterm problems sure product used problem,Negative
+32421,5.0,latest reveals rooster man wore remember first ep seen people killing people alone sometimes short people many ept passednot mention peoplein conclusion actuallyhow many people,Negative
+32514,5.0,received productvery fast delivery wait long time disappointed good shop quick,Negative
+32550,5.0,order sensitivethere plus charging wires cheap unsure endure long,Negative
+32634,4.0,delivery ask try use enough catch minutesmouse drag rarelyone level delayso must pressed turn timessilent clicklets deduct slow,Negative
+33165,1.0,bad according price chinaslowly battery soft move mouse still rarelyclicklike button must click clicked lazy send back technician baht used use nubwothe quality summary bad,Negative
+33328,4.0,get product okthe pack damaged normal delivery slow overall overall okay cheap productsthere lot tea,Negative
+33459,5.0,received product wait long time dont hurrygood cute products normally available damagewell get product wait long time dont hurrycute products normally available damage,Negative
+33702,4.0,product quality five full slowly delivered pack product wellgood product product quality five full delay slowly pack product well,Negative
+33848,5.0,received sensitive product days order received price read review thought quite goodcan use long time dont know yetbut good price,Negative
+33858,5.0,received sensitive product days order received price read review thought quite goodcan use long time dont know yetbut good price,Negative
+33958,5.0,product delivered quite quickly wait long time take daysthe product well wrappedtry use itwhat product lose,Negative
+34145,5.0,received productdoes damage anythingimportantly keypad softsoft plus quiet soundbarely heard click mount continue bluetooth easyand battery extremeone time charging long,Negative
+34395,5.0,send fastthe product pack tightnothing damaged product yet usedgive star firstif problem break star later,Negative
+34608,4.0,delivery fast wait long timeoverall considered satisfied productbut broken one starbecause line given productthe fire chart enter okayuse charging chart cable normallyquite heavy try see long,Negative
+34923,5.0,shop sensitivetransport sensitivethe product damaged work wellbeautiful color like daughterwhen battery signalso dont know long must charged,Negative
+35424,5.0,preorder productswait long time thinkdo hurry use compact pieces suitable eating alone sucking stick pan,Negative
+35610,5.0,saw preorder thinking would wait long time long agocompact suitable eating alonetry plugging hotwrapped box well damaged,Negative
+35647,3.0,slowthere lot blamethere lot blamethere lot blamethere blame slowly,Negative
+35793,4.0,fast shopthe color meets star broken order edge pan one sidethe pan weight plastichot slow calmly,Negative
+35836,5.0,pan hoteat people comfortablybut waste oil storage eating baconmust wait take oilotherwisecleaning easydo stick pan wellbut controlling coated pan fall farmhow long use itbut price considered worthwhile,Negative
+35934,5.0,hot less minutes hot compactsuitable peoplethe transport little slowthe item damaged hot less minutes hot compactsuitable peoplethe transport little slowthe item damaged,Negative
+36140,4.0,bad like thin plastic fast knowing grill long time melt,Negative
+36694,4.0,products work wellsuitable waiting hot slow people impatient may wait lose emotionssuitable grill,Negative
+36710,1.0,transport bad send slowly start sending product pages buyno heat son eats pork pan long time ripein conclusion waste time wasting lot feelings,Negative
+37365,4.0,sensitive productunfortunately color doesnt match imagethe real color dropdown picture shop sells bit give lot ratings delivery product doesnt want wait long timecan buy shop,Negative
+37441,3.0,received product complete number match order color delivered something thin shop fast stuck slow transport,Negative
+37483,4.0,wait long time still seeingpress wrong address probably expectedis accepted choose buy,Negative
+39514,4.0,delivery shopquite slow star broken product goodput box neat problem inexpensive,Negative
+40499,4.0,received confused puzzled item color beautifulbut okay fake dont hold item confusedto slow okay okay fake dont holdthe beautiful color slow,Negative
+41955,5.0,getthe shop quickly delivered even yala came slowly destination base express himselfstuck many days must go bass fault shopnot yet viewedthe one condo,Negative
+42179,5.0,order febs mar slowly chinabut okay dont hurry dont damage anything cute,Negative
+42295,5.0,received itemthe delivery country waiting long time waitthe product damage blamevery worth price bh,Negative
+42319,5.0,product cutefrom abroadwait ten days longimpressed delivery mosttake item filled fear fear,Negative
+42320,4.0,received product orderedproducts without blameput good shockproof packof inside damageddelivery foreign countries waiting little longer,Negative
+42400,5.0,product slow attached festival imported china causing delays problem products ordered,Negative
+42544,5.0,good condition shop delivery product accurate accurate according orders products according advertising media enough packaging enter problem disappear delivery period bit long time,Negative
+42551,5.0,received product valuewait long time china weekthe price one baht confused,Negative
+42669,5.0,received product completely damage shop send product long time understood sent abroadwaiting little longer,Negative
+43045,3.0,baht per piece provoking waiting long time baht per piece provoking waiting long time baht per piece provoking waiting long time,Negative
+43188,5.0,received product successfullywait long time waitthe goods damaged product completedof damaged cheap straight cover,Negative
+43355,5.0,received large enoughthe shop folded still crease used whileits little slow dont hurry useit worth,Negative
+43392,3.0,shop slowand sent wrong color order black shop proposed reduce priceit considered shop responsible product,Negative
+43543,5.0,goodgood servicedelivery slowthe quality products problem like subsidize,Negative
+43654,1.0,bad bad casethe shop wholesale long time days send parcel freight another days contact storehe told contact transportation aftersales service good allwe contact many roundscall call centerboth destination branchesbass express transport worst wasting lot feelings,Negative
+43729,5.0,product package damaged product slow product bit thin crab price slippery,Negative
+43856,5.0,get correct product according color according order sizethe shipping quite fastthe product blame damagesoft fur floor matsmaybe go suitable pricecan cheap bahtsize considered wide plateordered crab cat houseduring evening weather sleep warm,Negative
+43944,1.0,transportation fast shop bad send slowest saw delivery time expanded period asked send date automated systembut app doesnt see time delivery please cancel post date date restaurant rejected sent day,Negative
+44032,2.0,delivered slowlywait long cant cancelsend good quality productsbut shop slow,Negative
+44064,4.0,received product cheap quite products according price star broken delivery quite long overall okay,Negative
+44076,2.0,order gray brownspend time preparing long time must say shop forever much pay attention customers change colors dont want waste timenot okay send slow still wrong,Negative
+44147,3.0,order date delivery day delayed delaythan day duration quite longthe preorder china time beforethe product considered okworth price thick,Negative
+44241,3.0,slow ordered gray pink feel terrible,Negative
+44313,4.0,quality according order price received considered longfolded pastry postage bag bag floorif bag outside torn stain damage carpet hairs carpet aspect clipoverall considered used prices,Negative
+44437,5.0,carpet affordabledelivery relatively slowflick fucked littlelooks tight ok carpet affordabledelivery relatively slowflick fucked littlelooks tight ok,Negative
+44497,4.0,hair tight straight cuts softnesstransportation slow fast hair tighttransportation slow fast hair tighttransport soon,Negative
+44606,4.0,send quickly secretly disappointed think would bigger okaycalculate wrong size course send quickly secretly disappointed think would bigger okaycalculate wrong size course,Negative
+44624,5.0,softbeautiful color falling coverthe delivery time fast longnot really disappointed order,Negative
+44631,4.0,thick soft thoughtfulbut felt still okay ugly waiting long color orderedthe color feels straightfor dark gray,Negative
+44682,5.0,carpets sized color ordered soft good product pack fast delivery dont wait longgood transport service damage buy cheap flash cell,Negative
+44867,5.0,soft recommended disappointed send slowly disappointed product quality receivedbut come wait hair fall,Negative
+44904,4.0,send little slow broken overall ok,Negative
+44949,5.0,first sent mistake one size ordered two piecesat first shop press refundbut want moreso send carpet wrongthe shop okaykeep yourselfand sent right anotherwaiting little slow week concluded,Negative
+45222,1.0,choose shop many items choose fromthe price ordered takes days send item chat alongbut transportation goodenough feel frustrated taking video sheep product exactly cover order light gray send gray dark alkalibaht lot problems waiting long time,Negative
+45507,5.0,waiting long time pack wears half fold put bag affordable soft delivered sensitive get color size exactly orderednin trade damaged,Negative
+45667,5.0,sent slow want tell shopthis color bag randomly risky housewife take much labellike garbage bag,Negative
+45768,1.0,first slowin addition parcel damaged transport wrong colordo order color wrong color price expensive impressed service,Negative
+46019,1.0,delivery later storesbut still specified periodbut sending wrong color okay cannot replaced order brown pink shop offers baht refundi dont know another question,Negative
+46028,4.0,product worth compared price request broken star transport slow,Negative
+46056,1.0,bad ordered another color color slow normally buy bad shopbut never problem dont think come see storewaiting long time still delivered,Negative
+46262,5.0,product complete well delivered reasonably waiting long damage product complete well delivered reasonably waiting long damage product complete well delivered reasonably waiting long damage product complete well delivered reasonably waiting long damage,Negative
+46320,4.0,ordered received day quite longer usualthe box arrived bumpat fragile box page usage yet trybut think problems,Negative
+46382,4.0,packing box good broken receipt goodaccording order order period price little longerbut get area tb,Negative
+46532,5.0,delivery slowproducts exactly ordered disadvantage bags bumpedthe time relatively fastnormal transfer,Negative
+46696,5.0,received productthe shop sent correctly according modelby color number orderedthe shop sends product wait long time shop pack tighttry open computer problem,Negative
+46837,1.0,transport delay slow get pick product system send next daythink lost wrong house first cj transport product actually hot hot spinning inside loudness feeling poorlike bad assembly conclusion impressed recommend product transport,Negative
+46867,4.0,used wellreally wanting gold noso ordered pink color according cover plugged computermust turn new machinedont know othersecretly broken straight sent little slownot slow forget orderbut slowly desire disappeared,Negative
+46881,5.0,received product ordered completely delivery considered fast enough ask try first think problemthe box comes bad condition bad especially transporting best express slowly delivered plus sending wrong side sign pick item must call want shopee stop using service,Negative
+47179,5.0,good quality products inexpensive shop sensitivebut accidentally stuck problem shipping company made slow productbut contacting shop replied every time,Negative
+47221,4.0,buy hrs bahtspx relatively slow spx sent cj come us hate opened phase group person price baht repeated baht bought noon days usused normallydo say hello ask refund like,Negative
+47249,4.0,look longrecently migrated normal data use seagate alreadyand doesnt like convert filesto used tv bought collect worknot used store seriesthe old body used store seriesthere need anything plugging tv must pay another file conversionoverall considered goodjust stick,Negative
+47296,5.0,received product specifiedno problemstick delivery product slowlyuntil must follow extend timebecause fear cancellation product uses discount code call center employees fastaccording submissionbut durable must try overall ok,Negative
+47369,5.0,shipment slow fast days bag gok product damaged transportationwill try plug computer problemif problem updated listen,Negative
+47542,5.0,normal day shop sentfit order long stop wait wait understandcan purchased third price buying case,Negative
+47570,5.0,received product successfullycan work well problem shop fast try product long time pressing product receipt,Negative
+47622,5.0,fast deliveryeven bags even long stopsellerwin used normallyno problemthere lot shocks,Negative
+47808,5.0,wrapped shockproofbut affected boxsend lot sensitivity sd card vouchermust register later,Negative
+47886,1.0,send slow service bad advicecant affect computerthe staff contact back call free guide,Negative
+48116,5.0,received productpack goodthe delivery holiday slowbuy pro get discountsonly admin answered badly,Negative
+48184,5.0,dont know say plus bag shock saying buy enough glowing try look normal lets look long,Negative
+48488,5.0,get slowtransport scroll slide another days gettransport b something doesnt want use itcontact staff set cyclestired follow shop helpwell right quality,Negative
+48520,1.0,seller slowdo know days transit bad best express many timesdo press ring housechange name bad express staff like fake signatures pick whole giveaway helmet inserted,Negative
+48601,3.0,use problem data slow another informs supportnow wait answer change productbecause bought less seven days days enough plug try golf files,Negative
+48609,3.0,product normalbut problem transportationlong transportationsaid delivery powercustomers waiting forbut contacted transportcome see status customer requests postpone first round please ask shopee tell waiting system two roundssaid customers request scroll received slow customer request postpone,Negative
+48742,4.0,genuine products good quality cheap price broken one rating slow,Negative
+48857,5.0,new good products delivery sensitive waiting long time checkless problem check bad cant find im happy dont like lot plus bag descent,Negative
+49134,5.0,external hard disk light smallsuitable carryingthe shop little slow dont hurry use okaygood quality products,Negative
+49143,5.0,want get long time roll price flash sale goodcheaper mallthe pack good damagethe color ordered thatbut havent triedthink good good quality,Negative
+49194,5.0,received itemcan used normallythink problem capacity come tb considered normalbut status slow,Negative
+49248,3.0,order wifi quite sensitivethe sound little loudthe cable longer feel shortdifficult toothtransportation goodto fault shop service shipping company would like say badand emphasized allergic wrapping wrapping makegood service pay attention everything,Negative
+49284,5.0,product covereddelivery takes long time inexpensive quality packed well dense damaged,Negative
+49816,1.0,service badwhen purchase response hours would eat himwhen problem sale replythe clip teach detailed shamethe latest text blocks shopwho buy try think good good bad shop product qualityaftersales service,Negative
+49976,4.0,good productgood installation servicemoderate price waste tt press wrong order press wifi push press boothslowshould clear bracket besides ignition code person wrong code similarthe price delivery cost must anyone changeand output fee itselfand must sit wait,Negative
+50070,5.0,quite difficult tears flow long paper stickbut overall considered goodwaste little paperbecause must goodwait turn must satisfiedput every roundprinter,Negative
+50230,5.0,received itemwell wrapped shop delivery sensitive slow transport pay service shop goodplease try first,Negative
+50530,4.0,princime clearthe shop said shopees fire order another brand tryif obvious translates,Negative
+51070,5.0,shop fastanswer quickly wait daysbut came review later forgetting little confused side use,Negative
+51285,1.0,mint green order light greenshould conscious product pack deliverysend itplus another blame wrinkle remove color dont like take star enough chat answer slowly calling number given facebook page doesnt knowbecause call attached,Negative
+51330,3.0,mint green orderobtainedgreen ohthan choose colorthinking long timefinally color selecteddont tell returneddont say easythink reality difficult fastgood usebut get color doesnt like,Negative
+51523,4.0,item delayed slowlyup pay friday send send saturday evening delivery shop still shy,Negative
+51581,2.0,requesting broken star fast slow order purple graythe shop check orders ordered received hatari,Negative
+51766,4.0,send slowly dont know slow ok products use normallybut order blue color gray stressed color transportation wanting company ninja van,Negative
+51916,2.0,wholesale wholesale stores transport slow takes days order simultaneous items first daybut slowthe condition box torn item damaged,Negative
+52299,5.0,received product wellthe product damaged normal usecool forcethe shop delivered quickly wait long timevery affordable price,Negative
+52430,5.0,received productinitially longterm waiting problem,Negative
+52472,4.0,get right product quicklythe product well packednothing broken damagedbig powerwith inexpensive price makes little baked materialuse little us long time,Negative
+53046,4.0,send little longerthe item damaged color correct sheep sent others price cheaper big c reduction code ordered,Negative
+53311,5.0,receivedwaiting item longthink slowthis time transport lot problems happy item damaged,Negative
+53337,4.0,ordered received day waiting cheap price came flash sale episode star broken lock brokenshould broken box long timethe shop would checkedthe shop check device box well sending customerbut went find original fan insteaddont problems,Negative
+53579,5.0,good product work without problemsfast deliveryat first fear slowly fanbut sensitive,Negative
+54008,5.0,service shop goodgood quality products quality materialsbut transportation company ninja van terrible never encountering bad transport sending lot slow waiting almost weeks,Negative
+54196,4.0,fair quality products broken star slow delivery,Negative
+54287,5.0,wait long get item damage wait long time receive item damage wait longer get item damage,Negative
+54479,5.0,standard large standard hard use switch originalblue typical needed late transport,Negative
+54620,3.0,first delivery completeanswer quite long time still good send restbut sender bad j read name liability also came make symbol silent shop responded late personal lines responded quickly,Negative
+55482,5.0,sent thinkthought would wait longergood packing products nothing damagedthought would wait longergood packing products nothing damagedthought would wait longergood packing products damage,Negative
+55577,5.0,product takes long timethe pack wrapped wellnothing damagedthe device difficult use still cant find problem,Negative
+55618,5.0,box put another layer boxcausing product damage product line comes shortvery fast delivery daythe shop asked quicklychat went late,Negative
+55787,3.0,product noise problemsmaking system claim understand transportation limited understand want prevent disappearancebut bad transport companies customers still follow claim againwe try cause problems partbut shop still complaintdo think takes longer thinkfeel terrible,Negative
+56077,3.0,first round camera arrived problemis pink formso use exam two days returnthan follow product long timelike administration shop know aboutthan talk understandbut second round product ok terrible,Negative
+56104,5.0,received productthe product fully complete according amount orderedthe shop shipped product need wait longmadnessnot damagedthe product okay disappointed,Negative
+56586,5.0,product pack ok delivery kerry slow product already usedthe lens cannot adjustedcan use itkeep product box problems,Negative
+56659,2.0,impressed sending kremreturned slowly order sent enoughsend slowly machine comes sound waste time test long timeand try many testsdo think new items problems still pay back lose temper aftersales service improved,Negative
+56798,5.0,shopee review products arrivedno damage wrapped well delivery goodnot waiting long time quality products impaired worth money paidthe next time ordered cheap compared stores,Negative
+57326,2.0,slow deliveryif badly need ask seller shipping,Negative
+57506,4.0,slow delivery stuck kerry everywhere,Negative
