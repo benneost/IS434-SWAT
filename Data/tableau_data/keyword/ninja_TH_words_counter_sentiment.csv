@@ -32,7 +32,7 @@ was,4,Neutral,Ninja Van,TH
 items,4,Neutral,Ninja Van,TH
 wait,4,Neutral,Ninja Van,TH
 next,4,Neutral,Ninja Van,TH
-Slow,4,Neutral,Ninja Van,TH
+Slow,4,Negative,Ninja Van,TH
 are,4,Neutral,Ninja Van,TH
 still,4,Neutral,Ninja Van,TH
 until,4,Neutral,Ninja Van,TH
@@ -61,7 +61,7 @@ Order,2,Neutral,Ninja Van,TH
 online,2,Neutral,Ninja Van,TH
 shop,2,Neutral,Ninja Van,TH
 4,2,Neutral,Ninja Van,TH
-slow.,2,Neutral,Ninja Van,TH
+slow.,2,Negative,Ninja Van,TH
 Waiting,2,Neutral,Ninja Van,TH
 long,2,Neutral,Ninja Van,TH
 said,2,Neutral,Ninja Van,TH
@@ -83,7 +83,7 @@ too,2,Neutral,Ninja Van,TH
 Items,2,Neutral,Ninja Van,TH
 ordering,2,Neutral,Ninja Van,TH
 company,2,Neutral,Ninja Van,TH
-"slow,",2,Neutral,Ninja Van,TH
+"slow,",2,Negative,Ninja Van,TH
 can't,2,Neutral,Ninja Van,TH
 bad,2,Negative,Ninja Van,TH
 really,2,Neutral,Ninja Van,TH
@@ -101,7 +101,7 @@ use,2,Neutral,Ninja Van,TH
 April,2,Neutral,Ninja Van,TH
 receive,2,Neutral,Ninja Van,TH
 Ordered,2,Neutral,Ninja Van,TH
-late.,2,Neutral,Ninja Van,TH
+late.,2,Negative,Ninja Van,TH
 days,2,Neutral,Ninja Van,TH
 transport,2,Neutral,Ninja Van,TH
 contact,2,Neutral,Ninja Van,TH

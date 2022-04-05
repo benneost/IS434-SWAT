@@ -1,12 +1,12 @@
 word,count,Sentiment,company,country
 ...,90,Neutral,Ninja Van,ID
-long,62,Neutral,Ninja Van,ID
+long,62,Negative,Ninja Van,ID
 time,58,Neutral,Ninja Van,ID
 package,48,Neutral,Ninja Van,ID
 service,48,Neutral,Ninja Van,ID
 ninja,48,Neutral,Ninja Van,ID
 delivery,38,Neutral,Ninja Van,ID
-slow,32,Neutral,Ninja Van,ID
+slow,32,Negative,Ninja Van,ID
 bad,30,Negative,Ninja Van,ID
 use,28,Neutral,Ninja Van,ID
 courier,26,Neutral,Ninja Van,ID
@@ -23,7 +23,7 @@ one,14,Neutral,Ninja Van,ID
 took,14,Neutral,Ninja Van,ID
 arrived,14,Neutral,Ninja Van,ID
 sent,14,Neutral,Ninja Van,ID
-late,12,Neutral,Ninja Van,ID
+late,12,Negative,Ninja Van,ID
 dont,12,Neutral,Ninja Van,ID
 star,12,Neutral,Ninja Van,ID
 pick,12,Neutral,Ninja Van,ID

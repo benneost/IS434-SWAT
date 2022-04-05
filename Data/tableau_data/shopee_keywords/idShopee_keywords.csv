@@ -1,5 +1,5 @@
 ,word,count,Sentiment,country
-0,long,154,Neutral,ID
+0,long,154,Negative,ID
 1,delivery,112,Neutral,ID
 2,price,66,Neutral,ID
 3,time,61,Neutral,ID
@@ -12,7 +12,7 @@
 10,also,33,Neutral,ID
 11,according,32,Neutral,ID
 12,disappointed,29,Negative,ID
-13,fast,27,Neutral,ID
+13,fast,27,Positive,ID
 14,material,27,Neutral,ID
 15,cheap,26,Neutral,ID
 16,doesnt,26,Neutral,ID
@@ -20,7 +20,7 @@
 18,items,23,Neutral,ID
 19,courier,22,Neutral,ID
 20,order,22,Neutral,ID
-21,slow,22,Neutral,ID
+21,slow,22,Negative,ID
 22,seller,20,Neutral,ID
 23,broken,19,Negative,ID
 24,rather,19,Neutral,ID

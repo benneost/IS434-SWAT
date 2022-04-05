@@ -1,6 +1,6 @@
 word,count,Sentiment,company,country
 ...,58,Neutral,Shopee Express,ID
-long,50,Neutral,Shopee Express,ID
+long,50,Negative,Shopee Express,ID
 time,40,Neutral,Shopee Express,ID
 really,26,Neutral,Shopee Express,ID
 delivery,25,Neutral,Shopee Express,ID
@@ -12,7 +12,7 @@ bandung,17,Neutral,Shopee Express,ID
 day,17,Neutral,Shopee Express,ID
 courier,16,Neutral,Shopee Express,ID
 service,15,Neutral,Shopee Express,ID
-slow,15,Neutral,Shopee Express,ID
+slow,15,Negative,Shopee Express,ID
 even,14,Neutral,Shopee Express,ID
 arrived,12,Neutral,Shopee Express,ID
 item,12,Neutral,Shopee Express,ID
@@ -26,7 +26,7 @@ use,8,Neutral,Shopee Express,ID
 disappointed,8,Negative,Shopee Express,ID
 want,7,Positive,Shopee Express,ID
 still,7,Neutral,Shopee Express,ID
-late,6,Neutral,Shopee Express,ID
+late,6,Negative,Shopee Express,ID
 take,6,Neutral,Shopee Express,ID
 waiting,6,Neutral,Shopee Express,ID
 im,5,Neutral,Shopee Express,ID
@@ -63,7 +63,7 @@ always,3,Neutral,Shopee Express,ID
 stuck,3,Negative,Shopee Express,ID
 taking,3,Neutral,Shopee Express,ID
 come,3,Neutral,Shopee Express,ID
-slowest,3,Neutral,Shopee Express,ID
+slowest,3,Negative,Shopee Express,ID
 failed,3,Negative,Shopee Express,ID
 name,3,Neutral,Shopee Express,ID
 morning,3,Neutral,Shopee Express,ID

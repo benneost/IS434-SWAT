@@ -2,10 +2,10 @@ word,count,Sentiment,company,country
 ...,20,Neutral,Paxel,ID
 time,11,Neutral,Paxel,ID
 package,11,Neutral,Paxel,ID
-long,9,Neutral,Paxel,ID
+long,9,Negative,Paxel,ID
 day,9,Neutral,Paxel,ID
 service,7,Neutral,Paxel,ID
-late,6,Neutral,Paxel,ID
+late,6,Negative,Paxel,ID
 bad,5,Negative,Paxel,ID
 courier,5,Neutral,Paxel,ID
 even,5,Neutral,Paxel,ID
@@ -18,7 +18,7 @@ pickup,4,Neutral,Paxel,ID
 paxel,4,Neutral,Paxel,ID
 first,3,Neutral,Paxel,ID
 hour,3,Neutral,Paxel,ID
-wait,3,Neutral,Paxel,ID
+wait,3,Negative,Paxel,ID
 delivery,3,Neutral,Paxel,ID
 one,3,Neutral,Paxel,ID
 disappointing,3,Negative,Paxel,ID
@@ -43,7 +43,7 @@ not,2,Neutral,Paxel,ID
 schedule,2,Neutral,Paxel,ID
 customer,2,Neutral,Paxel,ID
 reached,2,Positive,Paxel,ID
-slow,2,Neutral,Paxel,ID
+slow,2,Negative,Paxel,ID
 expedition,2,Neutral,Paxel,ID
 send,2,Neutral,Paxel,ID
 professional,2,Neutral,Paxel,ID

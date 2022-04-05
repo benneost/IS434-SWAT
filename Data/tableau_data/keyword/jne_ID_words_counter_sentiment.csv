@@ -1,9 +1,9 @@
 word,count,Sentiment,company,country
 ...,23,Neutral,JNE,ID
 jne,16,Neutral,JNE,ID
-slow,15,Neutral,JNE,ID
+slow,15,Negative,JNE,ID
 batam,13,Neutral,JNE,ID
-long,12,Neutral,JNE,ID
+long,12,Negative,JNE,ID
 delivery,12,Neutral,JNE,ID
 bad,11,Negative,JNE,ID
 package,8,Neutral,JNE,ID
